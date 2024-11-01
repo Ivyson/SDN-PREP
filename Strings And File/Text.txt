@@ -1,0 +1,5 @@
+Your String Has 3 of Words
+Your sentence has 1 Words starting with a Vowel
+Sam
+Is
+Great
